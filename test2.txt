@@ -1,1 +1,3 @@
 Test2 dosyası oluşturuldu ve ilk defa içine yazıyorum
+
+Test2 dosyamızı test-branch içerisinde değiştiriyorum.
